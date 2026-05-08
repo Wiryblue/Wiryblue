@@ -41,10 +41,10 @@ CS & Data Science @ UW-Madison • Building things that actually work • New Gr
 
 ## 🚀 Featured Projects
 
-### 🏎 [road-rally-bot](https://github.com/rachith/road-rally-bot)
+### 🏎 [road-rally-bot](https://github.com/Wiryblue/road-rally-bot)
 Discord bot powering live scavenger hunt events — photo moderation via EXIF validation, Google Sheets task sync, and button-driven submission workflows. Built for real events with real participants.
 
-### 🏦 [KHK Auditor](https://github.com/rachith/KHK_Auditor)
+### 🏦 [KHK Auditor](https://github.com/Wiryblue/KHK_Auditor)
 Discord treasury bot with slash commands, Google Sheets sync, and automated reimbursement notifications. Used actively by my fraternity's finance team.
 
 ### 🕹 [KHK Arcade Cabinet](https://github.com/michaelcortese/khk-expo-2026)
