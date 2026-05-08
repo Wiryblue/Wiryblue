@@ -1,53 +1,83 @@
-# Rachith Anasuri
-### Computer Science & Data Science Student @ University of Wisconsin-Madison
+# Hey, I'm Rachith 👋
 
-I am a software engineer specializing in **Cloud Security**, **Distributed Systems**, and **Automation**. I previously interned at **Yahoo (Paranoid AI)**, where I engineered high-performance tools for Code-to-Cloud Security Posture Management.
-
-* **Focus:** High-Performance HTTP Load Balancers (C++), Cloud Security, Java Optimization
-* **Education:** University of Wisconsin-Madison (Class of 2027)
+CS & Data Science @ UW-Madison • Building things that actually work • New Grad 2027
 
 ---
 
-## Work Experience
+## 🔭 What I'm up to
 
-**Software Engineering Intern @ Yahoo (Paranoid AI Team)**
-*Engineered a Code-to-Cloud Security Posture platform to trace vulnerabilities across the application lifecycle.*
+- 🏢 SWE Intern @ **reAlign Insurance Holdings** — data pipelines, Databricks, AWS
+- 🎮 Built an **arcade cabinet** with an NVIDIA Jetson edge module + original retro game in Godot for Wisconsin Engineering Expo which we won second in
+- 📚 Working through **CS:APP** and **OSTEP** to get sharp on systems
 
-* **Security Infrastructure:** Built an end-to-end platform tracing issues across the code-container-cloud lifecycle, increasing deployment reliability.
-* **Performance Optimization:** Achieved a **90% reduction** in security scan latency (90m → 5m) by refactoring compiler data shuffling, effectively unblocking CI/CD pipelines.
-* **Observability:** Improved repository-to-cloud integration observability by **20%** and cut root-cause analysis time from **2 hours to 5 minutes** via a unified AI-driven dashboard.
 
 ---
 
-## Featured Projects
+## 🛠 Tech Stack
 
-**[High-Performance HTTP Load Balancer (C++)](#)** *(In Progress)*
-* Building a multi-threaded load balancer from scratch in C++ to handle concurrent client connections.
-* Implementing round-robin distribution strategies to optimize request handling and server reliability.
+**Languages**
 
-**[OptiStock (React, Python)](https://github.com/JeevanJyot55/OptiStocks)**
-* Engineered a full-stack investment analysis tool using React and Python to process large financial datasets.
-* Implemented algorithms to analyze 52-week Yahoo Finance data and generate algorithmic recommendations for diversified portfolios.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat-square&logo=godotengine&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-**[Automated Competition Bot (Python, SQLite)](https://github.com/dashingzombie/KKClub-bot)**
-* Developed a discord-based management system featuring automated image verification and SQLite persistence.
-* Streamlined real-time scoring and team management for large-scale scavenger hunt competitions.
+**Data & Cloud**
 
-**[FRC Autonomous Vision System (Java, Python)](https://github.com/TheGreenMachine/Zap)**
-* Architected autonomous navigation systems using AprilTag vision processing and path planning.
-* Contributed to the control systems that qualified Team 1816 for the World Championships for three consecutive years.
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
 
----
+**Tools**
 
-## Languages & Tools
-
-* **Languages:** Java, Python, C++, TypeScript, SQL, C
-* **Cloud & DevSecOps:** AWS, Databricks, Docker, Git
-* **Frameworks:** React, JUnit, Gradle
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## Certifications & Leadership
+## 🚀 Featured Projects
 
-* **Oracle Certified Associate:** Java SE 8 Programmer
-* **Kappa Eta Kappa (Professional CS Fraternity):** Assistant Treasurer & Brotherhood Engagement Chair
+### 🏎 [road-rally-bot](https://github.com/rachith/road-rally-bot)
+Discord bot powering live scavenger hunt events — photo moderation via EXIF validation, Google Sheets task sync, and button-driven submission workflows. Built for real events with real participants.
+
+### 🏦 [KHK Auditor](https://github.com/rachith/KHK_Auditor)
+Discord treasury bot with slash commands, Google Sheets sync, and automated reimbursement notifications. Used actively by my fraternity's finance team.
+
+### 🕹 [KHK Arcade Cabinet](https://github.com/michaelcortese/khk-expo-2026)
+Led the KHK team to design and build a full arcade cabinet from scratch — custom button hardware integration, NVIDIA Jetson edge module for on-device processing, and an original retro 2D game built in Godot/GDScript. Demoed at the Wisconsin Engineering Expo where won 2nd Place.
+
+---
+
+## 💼 Experience
+
+| | |
+|---|---|
+| **reAlign Insurance Holdings** | SWE Intern — Jan 2026–present |
+| **Yahoo** (Paranoid AI) | SWE Intern — Summer 2025 |
+
+---
+
+## 📖 Currently Learning
+
+- **CS:APP** — memory hierarchy, linking, concurrency
+- **OSTEP** — OS fundamentals before taking the course in Fall 2026
+- **Networking** — Peterson & Davie + Beej's Guide to socket programming
+
+---
+
+## ⚡ Fun Facts
+
+- Led the KHK team to build a full arcade cabinet with button hardware, an NVIDIA Jetson edge module, and an original 2D game — shown at Wisconsin Engineering Expo
+- Part of **Kappa Eta Kappa (KHK)**, a professional CS fraternity at UW-Madison
+- ThinkPad + Linux is my whole setup and I wouldn't change it
+
+---
+
+## 📫 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/rachith-anasuri-369a01232)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rachithanasuri@gmail.com)
